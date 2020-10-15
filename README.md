@@ -35,6 +35,8 @@ Now the owner will have the address of the metamask connected.
 
 In the above image,a playlist called “Classical” contains one music track is deleted by specifying its playlist id.
  
- 
+![Screenshot_6](https://user-images.githubusercontent.com/72811781/96141839-09568500-0f1f-11eb-8d57-a0d07c192e49.png)
+![Screenshot_7](https://user-images.githubusercontent.com/72811781/96141917-1bd0be80-0f1f-11eb-8b0c-e83da8dac32d.png)
+
 
 As in the above figure the playlist classical got deleted and is verified.
