@@ -6,7 +6,10 @@ There’s no rule about what you can include in a playlist — your imagination 
 PROGRAM EXPLANATION:
 Using JavaScript VM:
 1.Any person is able to create playlists and append the song tracks and maintain their playlist record using blockchain.The one who access the contract is recognized in blockchain using his account address.
- 
+
+![Screenshot_1](https://user-images.githubusercontent.com/72811781/96141353-8d5c3d00-0f1e-11eb-99f0-feff5905f219.png)
+
+
 As seen above this contract contains an array of structure called Playlist and a nested array of structure called Albums.
 
 2.Person is able to add playlist name through setPlaylistName displayed on the console.Mutiple Playlists may be created independent of song present or absent in the playlist.Along with the playlist the artist details can also be added using addArtistDetails method.While mentioning the artist details like artist name ,song title etc;the playlist number must also be mentioned to deploy a particular track to playlist of our choice.
