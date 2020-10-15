@@ -19,6 +19,9 @@ As seen above this contract contains an array of structure called Playlist and a
 
 3.So multiple playlists like Hollywood,bollywood,classical were added along with the song track information.To track the number of tracks in  a playlist,pass the playlist number onto playlist variable visible on the console where you are able to track your playlist details.Refer figure below: 
 
+![Screenshot_3 (2)](https://user-images.githubusercontent.com/72811781/96141759-f348c480-0f1e-11eb-9f76-1346f621d21e.jpeg)
+
+
 Using Injected Web3:(Ropston Network)
 1.The same transactions were done using Injected web3 for the execution.
 Now the owner will have the address of the metamask connected.
