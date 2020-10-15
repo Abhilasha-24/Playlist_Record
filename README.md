@@ -29,7 +29,11 @@ Now the owner will have the address of the metamask connected.
 ![Screenshot_4](https://user-images.githubusercontent.com/72811781/96141782-fba0ff80-0f1e-11eb-9b46-f2103cb525ea.jpeg)
  
 
-2.The playlists created can also be deleted by mentioning the playlist number in the record. In the above image,a playlist called “Classical” contains one music track is deleted by specifying its playlist id.
+2.The playlists created can also be deleted by mentioning the playlist number in the record.
+
+![Screenshot_5 (2)](https://user-images.githubusercontent.com/72811781/96141806-00fe4a00-0f1f-11eb-898f-1add5e737352.png)
+
+In the above image,a playlist called “Classical” contains one music track is deleted by specifying its playlist id.
  
  
 
