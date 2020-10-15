@@ -13,7 +13,9 @@ Using JavaScript VM:
 As seen above this contract contains an array of structure called Playlist and a nested array of structure called Albums.
 
 2.Person is able to add playlist name through setPlaylistName displayed on the console.Mutiple Playlists may be created independent of song present or absent in the playlist.Along with the playlist the artist details can also be added using addArtistDetails method.While mentioning the artist details like artist name ,song title etc;the playlist number must also be mentioned to deploy a particular track to playlist of our choice.
- 
+
+![Screenshot_2](https://user-images.githubusercontent.com/72811781/96141703-e88e2f80-0f1e-11eb-97fc-0396189dc663.png)
+
 
 3.So multiple playlists like Hollywood,bollywood,classical were added along with the song track information.To track the number of tracks in  a playlist,pass the playlist number onto playlist variable visible on the console where you are able to track your playlist details.Refer figure below: 
 
