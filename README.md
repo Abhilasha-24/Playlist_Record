@@ -26,6 +26,8 @@ Using Injected Web3:(Ropston Network)
 1.The same transactions were done using Injected web3 for the execution.
 Now the owner will have the address of the metamask connected.
  
+![Screenshot_4](https://user-images.githubusercontent.com/72811781/96141782-fba0ff80-0f1e-11eb-9b46-f2103cb525ea.jpeg)
+ 
 
 2.The playlists created can also be deleted by mentioning the playlist number in the record. In the above image,a playlist called “Classical” contains one music track is deleted by specifying its playlist id.
  
